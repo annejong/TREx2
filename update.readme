@@ -1,0 +1,14 @@
+T-REx_script.R
+	lib_RNAseq <-  "/usr/molgentools/trex/T-REx_functions.R"
+	
+T-REx_functions.R
+	** no modifications needed
+	
+T-REx_main.pl
+	my $trex_programdir = '/usr/molgentools/trex';
+
+# Two version are in the php folder: start_T-REx.php and start_T-REx_dev.php	
+start_T-REx.php
+	$prog_dir = "/usr/molgentools/trex" ;
+	$url = "http://genome2d.molgenrug.nl/index.php/rnaseq-expression-analysis" ; 			# url where the webserver is located
+	

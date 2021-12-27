@@ -1,0 +1,2 @@
+ERROR: The order of the Experiment names in the Factors file must have the same order as the column headers in the RPKM file. <br>
+Please correct your Factors and/or the RPKM file<br>

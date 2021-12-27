@@ -1,0 +1,7 @@
+git add 00.R.ERROR
+git add 00.R.log
+git add *.pl
+git add *.txt
+git add *.R
+git add Rcolors.list
+git add update.readme
